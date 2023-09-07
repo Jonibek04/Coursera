@@ -1,2 +1,2 @@
-# Coursera minor update!
-Practice account for learning git
+# Minor update has been made to Coursera!
+Practice account for learning git.
