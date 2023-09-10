@@ -11,3 +11,5 @@ Fuchsia
 Purple
 Brown
 Red
+Jonibek
+Hamroqulov
